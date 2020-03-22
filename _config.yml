@@ -1,8 +1,3 @@
 theme: jekyll-theme-cayman
 
-  title : [O título do seu site]
- description : [Uma breve descrição do objetivo do seu site] 
- 
- 
- show_downloads : ["true" para indicar se você deseja fornecer um URL de download]
- google_analytics : [seu ID de rastreamento do Google Analytics] 
+  
