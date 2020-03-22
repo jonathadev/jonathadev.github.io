@@ -1,3 +1,12 @@
+title : [O título do seu site]
+ description : [Uma breve descrição do objetivo do seu site] 
+ 
+ 
+ show_downloads : ["true" para indicar se você deseja fornecer um URL de download]
+ google_analytics : [seu ID de rastreamento do Google Analytics] 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jonathadev/jonathadev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
